@@ -1,1 +1,120 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T15:29:08.767Z" agent="5.0 (X11)" etag="zA1Oe-rzyZGYLUnnAlCH" version="15.8.9" type="github"><diagram id="oGStCa2V4KCtyniO64rf" name="Page-1">7Vxdc9o4FP01PCZjY0PIYyBpwk6y7ZbNbrsvGWErtiZCoraMSX59r/yBDXKATDFiusqQwT7Wl+/RvTq6BjrOaLa8jdA8fOA+pp2u5S87znWnC3+WBW8Sec2Ri76bA0FE/ByyK2BC3nABFvWChPg4XisoOKeCzNdBjzOGPbGGoSji6XqxZ07Xe52jACvAxENURf8lvghzdNCzKvwOkyAse7bLG56hsnABxCHyeVqDnJuOM4o4F/nRbDnCVBqvtEte79M7V1cDizAT+1QYX3+e0s/f07fbCVt8CxbjH6O/zopWFogmxQ13un0K7Q0TWdejKM4N2P+RyIEOZyh6gdtgT0+UxKLC4Sgo3rPqlGwi8RyxEkMIp333fDpF6bmPyxIw9nqhGqy2tr19QZGPF+21/8JZjKMFbq8HaaFfaR1AyeA6OF+1PsUR0MuIJyfuVa3SfLPONJJTagNsdXIAefNkSonXjlXPEBUHsGjm0uK1jBMCLyUeihkFwJb9ioi/4BGnPAKEcQYlh8+E0g0IURIwOPXAj4EVZ7jAkSAQga6KCzPi+7KbYRoSgSdz5Mk+U4i3gEU8YT6WLm6thlWPCaWDQ5t4WYOKGHGL+QyL6BWKFFfPXLeX1ykitjMoAlhaxb9uv8DCWuzrOgWIipgbrBqvwhIcFJHpA1GqqzNKQQdn8P84TZhI4MB2zy23lZBVzvqN/gZt9QchUums30pnld9l3U0eJzfwdj/+8/Gb7NQ6t4xHvu+Rg1JClB55qXrkykvXPNJtyyNdxSPvM0ezxgLP3qPio/an+Flssz5MFI+w4D4rdu1WyNfCBBLiUP2ZZsIrhIqYyXWQEyYyk/SG8AIjjazzXqcHYx3BuV2dw0sWj8QIVnwRIZKxiFEsUhyLjG2BBJpmd3qwCNzbHYGb6G4t/vYUtsvosUF0nJIZRTmvnIlJcUUaxgsJ9e/RK0/kaGOBvJfybBjyiLxBeVR5KopEsRlwrLUSE1mzaDPCMZT5Uhrb3oAe0HKt4D2SlOWj4RTibUxy4ux8yQgIG3Ih+OyAXPY2fHe1IapxabsNZNq9ttjsK2yOId5aQ8wS8ZawoON8Mh5cZ32rT+yeCqUX70l8a158ofD+XwIWGDmdK5f5JHjBRBjuW+G+r5v7gcL9F9DMKZhGojyiBAeY+Yb+Vuhv0Gut0f/H9OnOvfvnwf77YTwd8O9PbgwbqEvD/978K7zuOyXe5d/u6vb/Bv7D15jEXogBfkBwQBiY9zfeRNkbolqlpCmpcdkWI2WCu0bJRKYUoz042N+2mfCtzfB155H+gRLB41xpf4Teg1DibGhjV+Wk17StbY0TNR1+xVKIi6CK93KO34UYd50Y50Il5rIlYhrXL5WXMjf3P9iA7liPdnB50coGtOjvK/YEYgHFH+zwYo+1D1FwIYYEHsq1IFbm0Opef0EWKdPK7IQ/Kofe99eT2Ak3Ds9ReDc74SNxf8ydcOPw1My12Qkdj379O2GTCdHJ/1F3wo3jU59llB/mMGJyp5h0tD7NaOTTPM1oyZG3p7S0azjzNEMb99o1XNmwWcS18K9dxBkNp5N+/RpOfZoh04FGv+3Ub/bp6beG5yBGwB3Eiy9PW8A1PGwxCu5I5GtXcLaaejdL+PH4167gHNX5Df/H41+/hLPVPHztGxBGyG0XcoPTk3FqXtXIuMMk1N0T13FqBtbouGOxr1/IqXlYs5AfcQLoV3JGyWudACcg5dR0bPV9T6Pktiu5U5RyanrVSLnDuPLgtKVcGUqMlNPAvnYp1zU5Ga0TQL+UUz8XaybAESdAm1IOTqufmso/P1/9YJdz8xM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-02T15:30:39.181Z" agent="5.0 (X11)" etag="Ijxa1kPRm3PFo7sGXPMy" version="15.8.9" type="github">
+  <diagram id="oGStCa2V4KCtyniO64rf" name="Page-1">
+    <mxGraphModel dx="2200" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IDOblOYwzGSnvXgvIqCQ-1" value="&lt;ul class=&quot;markdown__list&quot;&gt;&lt;li&gt;&lt;span&gt;aaew64.bbaw.de&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;tladev.bbaw.de&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;konserve.bbaw.de&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;aaew.bbaw.de&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;aber nicht:&lt;/p&gt;&lt;br/&gt;&lt;ul class=&quot;markdown__list&quot;&gt;&lt;li&gt;&lt;span&gt;tlapublic&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;aaew-alt&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-445" y="380" width="260" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="IDOblOYwzGSnvXgvIqCQ-2" value="&lt;ul class=&quot;markdown__list&quot;&gt;&lt;li&gt;&lt;span&gt;aaew64 - Ubuntu 14.04&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;tlapublic - Ubuntu 18.04&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;tladev - Ubuntu 16.04&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;aaew-alt - SUSE LINUX 10.0&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-820" y="390" width="380" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="IDOblOYwzGSnvXgvIqCQ-4" value="List Item" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="1" vertex="1">
+          <mxGeometry x="-455" y="380" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IDOblOYwzGSnvXgvIqCQ-5" value="tladev" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="200" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="IDOblOYwzGSnvXgvIqCQ-6" value="In Benutzung?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="IDOblOYwzGSnvXgvIqCQ-5" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IDOblOYwzGSnvXgvIqCQ-7" value="Zuständigkeit?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="IDOblOYwzGSnvXgvIqCQ-5" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IDOblOYwzGSnvXgvIqCQ-8" value="Passwort vorliegend?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="IDOblOYwzGSnvXgvIqCQ-5" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-29" value="Betriebssystem" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="IDOblOYwzGSnvXgvIqCQ-5" vertex="1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IDOblOYwzGSnvXgvIqCQ-9" value="Physische Maschinen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-815" y="30" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IDOblOYwzGSnvXgvIqCQ-10" value="Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-830" y="240" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IDOblOYwzGSnvXgvIqCQ-11" value="Anwendungen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-840" y="370" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-1" value="aaew64" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-720" y="200" width="140" height="150" as="geometry">
+            <mxRectangle x="-720" y="200" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-2" value="In Benutzung?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-1" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-3" value="Zuständigkeit?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-1" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-4" value="Passwort vorliegend?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-1" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-28" value="Betriebssystem" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-1" vertex="1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-5" value="konserve" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="200" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-6" value="In Benutzung?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-5" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-7" value="Zuständigkeit?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-5" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-30" value="Passwort vorliegend?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-5" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-8" value="Betriebssystem" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-5" vertex="1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-9" value="aaew" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="200" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-10" value="In Benutzung?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-9" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-11" value="Zuständigkeit?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-9" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-12" value="Passwort vorliegend?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-9" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-31" value="Betriebssystem" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-9" vertex="1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-14" value="tlapublic" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="200" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-15" value="In Benutzung?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-14" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-16" value="Zuständigkeit?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-14" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-17" value="Passwort vorliegend?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-14" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-32" value="Betriebssystem" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-14" vertex="1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-18" value="aaew-alt" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="200" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-19" value="In Benutzung?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-18" vertex="1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-20" value="Zuständigkeit?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-18" vertex="1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-21" value="Passwort vorliegend?" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-18" vertex="1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jb_H4HVM1TMIb8oY_4sQ-33" value="Betriebssystem" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="Jb_H4HVM1TMIb8oY_4sQ-18" vertex="1">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
